@@ -36,7 +36,7 @@ I'm currently a student. I'm learning full-stack &ensp;  ![text](https://user-im
 <img src="https://img.shields.io/badge/-shrutiworkspace02@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:shrutiworkspace02@gmail.com" />
   <a href="https://www.linkedin.com/in/shruti-sharma-097b93228/" alt="LinkedIn Follow">
 <img src="https://img.shields.io/badge/-Shruti Sharma-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shruti-sharma-097b93228/" /></a>
- <a href="https://dev.to/tamojeetk"><img src="https://img.shields.io/badge/-@tamojeetk-0A0A0A?style=flat&amp;labelColor=0A0A0A&amp;logo=dev.to&amp;link=https://dev.to/tamojeetk" alt="DevTo Badge"></a>
+ <a href="https://dev.to/shruti_sharma_fbd3e53712e"><img src="https://img.shields.io/badge/-@tamojeetk-0A0A0A?style=flat&amp;labelColor=0A0A0A&amp;logo=dev.to&amp;link=https://dev.to/tamojeetk" alt="DevTo Badge"></a>
   <a href="https://open.spotify.com/user/31so775243hasoorlsjzhi53mhwi"><img src="https://img.shields.io/badge/-@Ahaan%20Tenemus-1ED760?style=flat&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/31so775243hasoorlsjzhi53mhwi" alt="Spotify Badge"></a>
 </p>
 
