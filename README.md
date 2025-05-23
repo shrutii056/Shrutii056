@@ -32,13 +32,10 @@ I'm currently a student. I'm learning full-stack &ensp;  ![text](https://user-im
   <br><img src="https://i.giphy.com/media/UrzWDQ3VTiDU84R5dx/giphy.webp" width="50">
 </h2>
 <p align="center">
-  
-  <a href="https://www.instagram.com/ahaan_tenemus/" alt="instagram Follow" >
-<img src="https://img.shields.io/badge/-TAMOJEET-d72876?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/ahaan_tenemus/" /></a>
-  <a href="mailto:aahankuila@gmail.com" alt="Email">
-<img src="https://img.shields.io/badge/-aahankuila@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:aahankuila@gmail.com" />
-  <a href="https://www.linkedin.com/in/tamojeet-kuila-08974b1b7/" alt="LinkedIn Follow">
-<img src="https://img.shields.io/badge/-TamojeetKuila-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tamojeet-kuila-08974b1b7/" /></a>
+  <a href="mailto:shrutiworkspace02@gmail.com" alt="Email">
+<img src="https://img.shields.io/badge/-shrutiworkspace02@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:shrutiworkspace02@gmail.com" />
+  <a href="https://www.linkedin.com/in/shruti-sharma-097b93228/" alt="LinkedIn Follow">
+<img src="https://img.shields.io/badge/-Shruti Sharma-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shruti-sharma-097b93228/" /></a>
  <a href="https://dev.to/tamojeetk"><img src="https://img.shields.io/badge/-@tamojeetk-0A0A0A?style=flat&amp;labelColor=0A0A0A&amp;logo=dev.to&amp;link=https://dev.to/tamojeetk" alt="DevTo Badge"></a>
   <a href="https://open.spotify.com/user/31so775243hasoorlsjzhi53mhwi"><img src="https://img.shields.io/badge/-@Ahaan%20Tenemus-1ED760?style=flat&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/31so775243hasoorlsjzhi53mhwi" alt="Spotify Badge"></a>
 </p>
